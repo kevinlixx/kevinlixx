@@ -8,11 +8,11 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :school: I am a seventh-semester student studying Systems Engineering at the Minuto de Dios University Corporation.
+- :school: I am an eighth-semester student of Systems Engineering at the Minuto de Dios University Corporation.
 
-- :computer: I am a competitive programmer specializing in backend development.
+- :computer: I am a competitive programmer specializing in full stack development.
 
-- :student: I am currently learning Python, Django, and English.
+- :student: I am currently learning Python,java, microservices, and cloud.
 
 - :nerd_face: Always eager to learn new things.
 
