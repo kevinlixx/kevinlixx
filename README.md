@@ -8,15 +8,19 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :school: I am an student of Systems Engineering at the Minuto de Dios University Corporation.
+# 💻 Software Developer | Full Stack | Microservices  
 
-- :computer: I am a competitive programmer specializing in full stack development.
+🎓 **Final-year Systems Engineering Student** at Minuto de Dios University Corporation.  
 
-- :student: I am currently learning Python,java, microservices, and cloud.
+💻 **Competitive programmer and full-stack developer** with experience in building **microservices architectures** and **containerized solutions**. Proficient in **design patterns**, **reactive frameworks**, and the **MVC model**.  
 
-- :nerd_face: Always eager to learn new things.
+📱 **Experienced in multiple platforms and languages**, including **mobile development with Android Studio**, **conversational AI with Dialogflow CX**, and **responsive web applications**. Skilled in **Java, Python, SQL**, and **cloud-based solutions**.  
 
-- :thinking: I am currently open to new job opportunities. This is MY RESUME.
+🧠 **Always eager to learn**, currently deepening my knowledge in **microservices, cloud computing, and backend development**.  
+
+🚀 **Strong problem-solving skills, critical thinking, and teamwork**, allowing me to adapt to dynamic environments and build **scalable and efficient solutions**.  
+
+🤔 **Open to new job opportunities** – **This is MY RESUME**.  
 
 ## - :boom: You can visit MY WEBSITE.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Known Technologies </b>
