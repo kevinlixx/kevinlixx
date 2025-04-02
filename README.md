@@ -8,7 +8,7 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :school: I am an eighth-semester student of Systems Engineering at the Minuto de Dios University Corporation.
+- :school: I am an student of Systems Engineering at the Minuto de Dios University Corporation.
 
 - :computer: I am a competitive programmer specializing in full stack development.
 
@@ -18,7 +18,7 @@
 
 - :thinking: I am currently open to new job opportunities. This is MY RESUME.
 
-- :boom: You can visit MY WEBSITE.
+## - :boom: You can visit MY WEBSITE.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Known Technologies </b>
 
 <!-- Start to describe technologies-->
